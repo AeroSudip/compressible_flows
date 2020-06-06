@@ -5,8 +5,6 @@ This is a block code for computing OSW properties
 
 # The code takes inflow Mach number and gas properties
 
-print('This Is The Fight Of Our Lives. We Are Going To Win. Whatever It Takes.')
-
 
 import numpy as np
 import math
